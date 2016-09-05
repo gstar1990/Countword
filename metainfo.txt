@@ -1,0 +1,21 @@
+Name of QuantLet:  Countword
+
+Published in:      
+
+Description:       Texture analysis on news articles
+
+Keywords:          texture analysis, media news, sentiment
+
+See also:          
+
+Author:            Guo Li
+
+Submitted:         Mon, September 5 2015 by Guo Li
+
+Datafile:          positve-words.txt negative-words.txt example.txt
+
+Input:  
+
+Output:           
+
+Example:            
