@@ -4,21 +4,21 @@
 
 
 ```yaml
-Name of QuantLet:  Countword
+Name of QuantLet:  'Countword'
 
 Published in:       
 
-Description:       Texture analysis on news articles
+Description:       'Counts positive and negative words using the lexicon by Bing Liu'
 
-Keywords:          texture analysis, news tone, sentiment
+Keywords:          'text, nlp, tokenization, opinion mining, media news, sentiment'
 
 See also:           
 
-Author:            Guo Li
+Author:            'Guo Li'
 
-Submitted:         Mon, September 5 2015 by Guo Li
+Submitted:         'Mon, September 5 2015 by Guo Li'
 
-Datafile:          positve-words.txt negative-words.txt example.txt
+Datafile:          'positve-words.txt negative-words.txt example.txt'
 
 Input:  
 

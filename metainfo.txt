@@ -1,12 +1,12 @@
 Name of QuantLet:  'Countword'
 
-Published in:      
+Published in:       
 
-Description:       'Texture analysis on news articles'
+Description:       'Counts positive and negative words using the lexicon by Bing Liu'
 
-Keywords:          'texture analysis, media news, sentiment'
+Keywords:          'text, nlp, tokenization, opinion mining, media news, sentiment'
 
-See also:          
+See also:           
 
 Author:            'Guo Li'
 
@@ -18,4 +18,4 @@ Input:
 
 Output:           
 
-Example:            
+Example:    
